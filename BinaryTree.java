@@ -58,7 +58,7 @@ public class Main {
                             if (position.equals("R")) {
                                 /** Checking that already parentNode have rightChild
                                  * If have then throw exception */
-                                if (parentNode.rightNode.equals(null)) {
+                                if (parentNode.rightNode==null) {
                                     parentNode.rightNode = node;
                                 } else
                                     throw new Exception();
@@ -66,7 +66,7 @@ public class Main {
                             } else if (position.equals("L")) {
                                 /** Checking that already parentNode have leftChild
                                  * If have then throw exception */
-                                if (parentNode.leftNode.equals(null)) {
+                                if (parentNode.leftNode == null) {
                                     parentNode.leftNode = node;
                                 } else
                                     throw new Exception();
@@ -85,6 +85,7 @@ public class Main {
             } else
                 break;
         }
+        System.out.println(binaryTree);
     }
 }
 
