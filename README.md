@@ -1,5 +1,5 @@
-# BinaryTree Java
+# BinaryTree - Java
 Write java docs there
 
-# BinaryTree C
+# BinaryTree - C
 Write C docs there
