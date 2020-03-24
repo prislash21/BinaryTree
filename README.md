@@ -13,6 +13,7 @@ ___
      * [x] Already inputed Right child value can't be inputted in the same place.
      * [x] Already inputed Left child value can't be inputted in the same place.
 ___
+### Step 1:
 
 ```java
 System.out.println("Enter node value: ");
@@ -23,6 +24,7 @@ if (nodeValue > 0 && !binaryTree.containsKey(nodeValue)) {
 }
 
 ```
+### Output :
 
 
 
