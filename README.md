@@ -14,6 +14,16 @@ ___
      * [x] Already inputed Left child value can't be inputted in the same place.
 ___
 
+```java
+System.out.println("Enter node value: ");
+    int nodeValue = scanner.nextInt();
+            
+if (nodeValue > 0 && !binaryTree.containsKey(nodeValue)) {
+    Node node = new Node(nodeValue);
+}
+
+```
+
 
 
 
