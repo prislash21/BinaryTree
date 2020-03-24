@@ -2,6 +2,7 @@
 # Binary Tree -JAVA
 
 >#### Here I use Hashmap for implementing Binary Tree. Because hashmap represents unique value as like binary tree.
+___
 
 
 _Summery_
