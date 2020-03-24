@@ -1,5 +1,5 @@
-### BinaryTree - Java
+### BinaryTree with Hashmap - Java
 Write java docs there
 
-# BinaryTree - C
+### BinaryTree with Hashmap - C
 Write C docs there
