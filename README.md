@@ -10,8 +10,8 @@ ___
 *  If that node already  in map then, user can terminate from creating new node.
 * Otherhand if the node is not exists in the map then user can create one.
 * Here is an Exception Handler what can handle cases:
-     * [x] Already inputed Right child can not be input in the same place.
-     * [x] Already inputed Left child can not  input in the same place.
+     * [x] Already inputed Right child value can't be inputted in the same place.
+     * [x] Already inputed Left child value can't be inputted in the same place.
 ___
 
 
