@@ -6,6 +6,8 @@
 _Summery_
 ___
 * User can input the Parent node value and child note value as they want to use.
+* User can terminate from creating new nodes by 0
+* Only non negative numbers are accepted for creating new nodes.
 *  If that node already  in map then, user can terminate from creating new node.
 * Otherhand if the node is not exists in the map then user can create one.
 * Here is an Exception Handler what can handle cases:
