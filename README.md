@@ -13,3 +13,5 @@ ___
      * [x] Already inputed Left child can not  input in the same place.
 ___
 
+# Screeshots of inputs
+![](images/input.PNG)
